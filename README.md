@@ -1,5 +1,6 @@
 # Matriz_em_Java
 Atividade:
+
 Paulo, o estudante do Ensino Médio que você conheceu no Mergulhando no Tema,
 agora deseja criar um programa que realize a soma de todos os elementos de uma matriz 10x10,
 contendo números inteiros.
